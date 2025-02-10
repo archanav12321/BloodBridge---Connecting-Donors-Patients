@@ -12,7 +12,23 @@ The **Blood Bank Management System** is a web-based platform that facilitates bl
 - **📨 Request Blood:** Users can request specific blood types when needed.
 
 ## 📁 Project Structure
-```/BloodBankManagement │── final.html # Main Homepage │── message.html # Login Page │── register.html # Registration Page │── why_donate.html # Importance of Blood Donation │── who_can_give.html # Eligibility Criteria │── contact_us.html # Contact Page │── refer_friend.html # Refer a Friend Page │── donate_where.html # Find Nearby Blood Banks │── feedback.html # User Feedback Form │── assets/ # Images, CSS, and JavaScript files │── database.sql # MySQL Database Structure (if applicable) │── README.md # Documentation```
+```BloodBankManagement/
+│── **final.html**            → Main Homepage
+│── **message.html**          → Login Page
+│── **register.html**         → Registration Page
+│── **why_donate.html**       → Importance of Blood Donation
+│── **who_can_give.html**     → Eligibility Criteria
+│── **contact_us.html**       → Contact Page
+│── **refer_friend.html**     → Refer a Friend Page
+│── **donate_where.html**     → Find Nearby Blood Banks
+│── **feedback.html**         → User Feedback Form
+│── **assets/**               → Contains images, stylesheets, and scripts
+│   ├── **css/**              → CSS files for styling
+│   ├── **js/**               → JavaScript files for interactive elements
+│   ├── **images/**           → Contains images and icons
+│── **database.sql**          → MySQL Database Structure (if applicable)
+│── **README.md**             → Documentation for the project
+```
 
 ## 🏗️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
