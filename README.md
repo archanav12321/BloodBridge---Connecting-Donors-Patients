@@ -1,4 +1,4 @@
-# 🩸 Blood Bank Management System
+# 🩸 BloodBridge - Connecting Donors & Patients
 
 ## 📌 Project Overview
 The **Blood Bank Management System** is a web-based platform that facilitates blood donation and availability tracking. It allows users to register as donors, search for available blood groups, and contact donors directly if blood is not available in the blood bank. This system improves the efficiency of blood donation and helps save lives by providing a quick way to find blood donors.
