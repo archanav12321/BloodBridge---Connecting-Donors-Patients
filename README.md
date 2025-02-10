@@ -56,7 +56,7 @@ The **Blood Bank Management System** is a web-based platform that facilitates bl
 - Open the browser and navigate to:
 http://localhost/blood-bank-management
 
-3.**For Python Users (Django/Flask):**
+ 3.**For Python Users (Django/Flask):**
 
 - Install dependencies:
   ``` pip install -r requirements.txt```
