@@ -13,3 +13,39 @@ The **Blood Bank Management System** is a web-based platform that facilitates bl
 
 ## 📁 Project Structure
 ```/BloodBankManagement │── final.html # Main Homepage │── message.html # Login Page │── register.html # Registration Page │── why_donate.html # Importance of Blood Donation │── who_can_give.html # Eligibility Criteria │── contact_us.html # Contact Page │── refer_friend.html # Refer a Friend Page │── donate_where.html # Find Nearby Blood Banks │── feedback.html # User Feedback Form │── assets/ # Images, CSS, and JavaScript files │── database.sql # MySQL Database Structure (if applicable) │── README.md # Documentation```
+
+## 🏗️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP / Python (Django/Flask)
+- **Database:** MySQL / Firebase
+- **Hosting:** Apache / AWS / Heroku
+
+## 🔧 Installation & Setup
+
+### Prerequisites
+- **For PHP Users:** Install XAMPP or WAMP Server.
+- **For Python Users:** Install Python 3.x, Django/Flask.
+- **For Database Users:** Install MySQL or Firebase.
+
+### Setup Instructions
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/blood-bank-management.git
+   cd blood-bank-management
+
+2. **For PHP Users:**
+
+- Move the project folder to htdocs (XAMPP) or www (WAMP).
+- Start Apache & MySQL from the control panel.
+- Open the browser and navigate to:
+http://localhost/blood-bank-management
+
+3.**For Python Users (Django/Flask):**
+
+- Install dependencies:
+  ``` pip install -r requirements.txt```
+-Run migrations:
+ ```python manage.py migrate```
+- Start the server:
+ ```python manage.py runserver```
+- Open http://127.0.0.1:8000 in your browser.
